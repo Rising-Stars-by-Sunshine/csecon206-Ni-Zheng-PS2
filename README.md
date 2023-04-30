@@ -21,11 +21,27 @@ Note: please insert the screenshot of the answers to your research question by C
 
 
 ### Structure
+- Reflection on the development of Game Theory
+Over the years, many scholars have made significant contributions to game theory to study strategic behavior in social science and economics between individuals and groups. From our class, we basically learned about the contribution of  John von Neumann, Oskar Morgenstern, Reinhard Selten, Robert J. Aumann. Each of these scholars has specialized in different aspects of game theory and has introduced new game environments, solution concepts, and evaluation criteria that have advanced the field.
 
+- Definition, Theorem and Proof of Bayesian Nash Equilibrium
+Bayesian Nash Equilibrium is an extensive concept in game theory, based on Nash Equilibrium. In this equilibrium, players have incomplete or private information about the game. To win in this equilibrium, the strategy is vital, which means that players should seriously consider the information that are private to them, as well as the potential strategies of other players.
+
+- Game Theory Glossary Tables
+1. Correlated Strategy
+2. Common Knowledge
+3. Tit-for-Tat
+4. Zero-Sum Game
 
 ### Spotlight
+- Game theory exploration on Overleaf
+I will dig deeper into Bayesian game regarding their definition, theorem and proof. With a general definition, I will also introduce two relevant books and compare the similarities and differences of Bayesian game in book. Mathematical level knowledge will also be presented in my project.https://www.overleaf.com/project/644e82d961b37edc0107b190
 
+- Glossary Table
+To give a better insight into game theory, I also display several glossaries with fundamental definition and sources.
 
+- Normal and extensive form games in Colab
+Please go to: https://github.com/Rising-Stars-by-Sunshine/csecon206-Ni-Zheng-PS2/blob/0a46f54271809ec0482a3b3405263207fde48f06/PS2.ipynb
 
 ### More about the Author
 * Self-Intro 
