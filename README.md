@@ -41,7 +41,7 @@ I will dig deeper into Bayesian game regarding their definition, theorem and pro
 To give a better insight into game theory, I also display several glossaries with fundamental definition and sources.
 
 - Normal and extensive form games in Colab
-Please go to: https://github.com/Rising-Stars-by-Sunshine/csecon206-Ni-Zheng-PS2/blob/0a46f54271809ec0482a3b3405263207fde48f06/PS2.ipynb
+Please go to: [https://github.com/Rising-Stars-by-Sunshine/csecon206-Ni-Zheng-PS2/blob/0a46f54271809ec0482a3b3405263207fde48f06/PS2.ipynb](https://github.com/Rising-Stars-by-Sunshine/csecon206-Ni-Zheng-PS2/blob/934b6237825e5e64f1b3cde167cb63db8610145a/PS2_(1).ipynb)
 
 ### More about the Author
 * Self-Intro 
