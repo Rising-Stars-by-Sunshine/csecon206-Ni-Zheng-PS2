@@ -33,6 +33,9 @@ Bayesian Nash Equilibrium is an extensive concept in game theory, based on Nash 
 3. Tit-for-Tat
 4. Zero-Sum Game
 
+## Overleaf Link
+[https://github.com/Rising-Stars-by-Sunshine/csecon206-Ni-Zheng-PS2/blob/3bffd3b4ffcce46739f00e066af9c2957f016891/PS2_Jenny%20(2).zip](https://www.overleaf.com/read/jxjvbddwfzpn)
+
 ### Spotlight
 - Game theory exploration on Overleaf
 I will dig deeper into Bayesian game regarding their definition, theorem and proof. With a general definition, I will also introduce two relevant books and compare the similarities and differences of Bayesian game in book. Mathematical level knowledge will also be presented in my project.[https://www.overleaf.com/project/644e82d961b37edc0107b190](https://www.overleaf.com/read/jxjvbddwfzpn)
