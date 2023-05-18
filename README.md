@@ -35,7 +35,7 @@ Bayesian Nash Equilibrium is an extensive concept in game theory, based on Nash 
 
 ### Spotlight
 - Game theory exploration on Overleaf
-I will dig deeper into Bayesian game regarding their definition, theorem and proof. With a general definition, I will also introduce two relevant books and compare the similarities and differences of Bayesian game in book. Mathematical level knowledge will also be presented in my project.https://www.overleaf.com/project/644e82d961b37edc0107b190
+I will dig deeper into Bayesian game regarding their definition, theorem and proof. With a general definition, I will also introduce two relevant books and compare the similarities and differences of Bayesian game in book. Mathematical level knowledge will also be presented in my project.[https://www.overleaf.com/project/644e82d961b37edc0107b190](https://www.overleaf.com/read/jxjvbddwfzpn)
 
 - Glossary Table
 To give a better insight into game theory, I also display several glossaries with fundamental definition and sources.
